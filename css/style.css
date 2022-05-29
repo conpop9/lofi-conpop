@@ -1,0 +1,43 @@
+body{
+    margin : 0px;
+}
+
+h1{
+    position:  relative;
+    bottom: 2100px;
+    left: 500px;
+    color : white;
+    font-family: arvo;
+}
+
+.video1{
+    position:  relative;
+    left: 450px;
+    bottom: 1450px;
+
+}
+
+
+.video2{
+    position:  relative;
+    right: 120px;
+    bottom: 600px;
+
+}
+
+
+.img1{
+width: 100%;
+}
+
+
+.img2{
+    width: 100%;
+    }
+
+.img3{
+        width: 100%;
+    }
+
+
+
